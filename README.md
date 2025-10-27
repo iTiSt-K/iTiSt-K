@@ -1,9 +1,10 @@
 ## WELCOME To My Profile
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iTiSt-K&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+![iTiSt's trophy](https://github-profile-trophy.vercel.app/?username=iTiSt-K&no-bg=true&no-frame=true)
 
 ![iTiSt's github stats](https://github-readme-stats.vercel.app/api?username=iTiSt-K&show_icons=true)
-[![iTiSt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iTiSt-K&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/iTiSt-K)
+![iTiSt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iTiSt-K&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 <!--
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
 # https://simpleicons.org/
